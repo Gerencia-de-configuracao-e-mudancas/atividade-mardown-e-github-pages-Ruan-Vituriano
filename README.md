@@ -61,6 +61,3 @@ Adicione um arquivo LICENSE se quiser aplicar uma licença específica.
 ## Contato
 Autor: Ruan Vituriano  
 GitHub: https://github.com/Ruan-Vituriano
-
----
-Criei este README com informações básicas e instruções para publicar e visualizar o conteúdo com GitHub Pages. Posso commitar este arquivo no repositório e/ou criar uma branch e PR se você quiser — diga se devo prosseguir com o push e em qual branch criar o commit.
